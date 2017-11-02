@@ -6,7 +6,7 @@
 """
 GYGA Python script for constructing and selecting  RWS buffer zones
 Plant Production Systems, Wageningen UR, Sander C. de Vries, May 2016
-Updates can be downloaded from https://github.com/sandercdevries/GYGA
+Updates can be downloaded from https://github.com/sandercdevries/GYGA-tools
 
 Requirements:
 - A version of ESRI ArcMap/ArcGIS, including a Spatial Analyst license 
@@ -62,7 +62,7 @@ subprocess.call("color 17", shell = True)
 print"*********************************************************************************************************"
 print "                 GYGA script for constructing and selecting  RWS buffer zones, Version 1.0"
 print "                    Sander de Vries, Plant Production Systems, Wageningen UR, May 2016"
-print "                 - Download updates or contribute via https://github.com/sandercdevries/GYGA -" 
+print "             - Download updates or contribute via https://github.com/sandercdevries/GYGA-tools -" 
 print"*********************************************************************************************************"
 print '\n'
 
